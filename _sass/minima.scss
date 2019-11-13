@@ -1,9 +1,10 @@
 @charset "utf-8";
 
+@import url(href="https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap");
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   16px !default;
+$base-font-family: 'Yeon Sung', cursive;
+$base-font-size:   20px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
@@ -26,6 +27,13 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+img {
+    float:right; 
+}
+
+#bar {
+    
+}
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {

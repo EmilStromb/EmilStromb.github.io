@@ -1,0 +1,10 @@
+/* TEAM */
+	Boss: Emil Strömberg
+    SITE: es224pq@student.lnu.se
+    Location: Sweden
+
+/* SITE */
+	Last update:2019/11
+	Language: Swedish
+	Standards: HTML5, Scss
+	Software: Visual studio
