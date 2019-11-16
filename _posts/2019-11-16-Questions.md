@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Questions"
-date:   2019-11-12 05:26:03 -0600
-categories: jekyll update
+date:   2019-11-16 06:12:03 -0600
+categories: jekyll 
 ---
 <h3>What do you think of pre-compiling your CSS?</h3>
 This function is basically takes the code that you have done in scss (that im using) and converts it to CSS. The preprocessed CSS gives you features like nestings, @import, mixins, and varible, it's also less css to maintain. What i think is most is usefull is varibles, you can make varible in css files with $ to reuse it, it gives you less code to maintain and better structure. 
