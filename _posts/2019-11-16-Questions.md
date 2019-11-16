@@ -9,8 +9,9 @@ This function is basically takes the code that you have done in scss (that im us
 <h4>Compare to regular CSS</h4> 
 I think css preprocessing is better so far, it compiles all sass files together to a singel file for the site, and as mentioned above its less code to maintain, using varible so it makes DRY better. 
 <h4>Which techniques did you use?</h4>
+I mostly used varibles, witch i really liked because it doesn't change a small portion, it changes everything you like to easy with just changing the varible, sure you probably want to change some small stuff around it too but it's way quicker then normal css. Since we use Jekyll aswell it takes some time to see what changes what.
 <h4>Pros and cons?</h4>
-I think pre-compiling has more pros then cons today, as we learned on our first lecture, most things that pre-compiling made it better then css also is added to css slowly, but while thats not done yet, i think pre compiling is better. It's effcient, saves you time and hold better for DRY. 
+I think pre-compiling has more pros then cons today, as we learned on our first lecture, most things that pre-compiling made it better then css also is added to css slowly, but while thats not done yet, i think pre compiling is better. It's effcient, saves you time and hold better for DRY.
 <h3>What do you think of static site generators?</h3>
 I like static site generators, when it comes to private person or small company that whants to create a site i belive its better to do with static site generator, performance we dont need to wory about performance, if your site gets huge and alot of people want to use it static site generators will help have proper servers to handle it, aswell as security, we dont have to worry about intrusion in our database. 
 <h4>What type of projects are they suitable for?</h4>
