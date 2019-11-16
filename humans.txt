@@ -5,6 +5,6 @@
 
 /* SITE */
 	Last update:2019/11
-	Language: Swedish
+	Language: English
 	Standards: HTML5, Scss
 	Software: Visual studio

@@ -27,13 +27,11 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
-img {
-    float:right; 
+.site-header {
+    background-color: green;
 }
+#pic {width: 300px; float: right;}
 
-#bar {
-    
-}
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
@@ -53,7 +51,7 @@ img {
 
 // Import partials.
 @import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "./base",
+  "./layout",
+  "./syntax-highlighting"
 ;
