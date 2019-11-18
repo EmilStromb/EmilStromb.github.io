@@ -5,7 +5,7 @@ title: Om Mig
 # About page
 
   <h3>My childhood</h3>
-  <img src="./pics/jag.jpg" alt="pic on me and my girlfriend" id="pic">
+  <img src="./pics/Jag.jpg" alt="pic on me and my girlfriend" id="pic">
   I'm born and rased in a city called Växjö, I'm 19 years old and my birthday is in december. I currently study at linnéuniversitet in Kalmar. I graduated from teknikum in Växjö year 2018, i went electic and energi. computer and communications. I'm a happy person and likes to help everyone in need, on my free time i like to play games with my friends.
   on the picture is me and my girlfriend at stockholm, Sweden. We were at a consert to listen to Ed Sheeran. The night was amazing, exept for one part where one of my sisters accedently poured soda all over me. I have 2 older sisters and one older half brother (from my fathers side). Everyone i know lives in Växjö so i travel alot.
   
