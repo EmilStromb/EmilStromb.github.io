@@ -13,6 +13,7 @@ $spacing-unit:     30px !default;
 
 
 $text-color:       #111 !default;
+// pic mist is taken from a free website called unsplash
 $background-img: url("../pics/mist.jpg") !default; 
 $brand-color:      #2a7ae2 !default;
 $max-width: 100% !default;
@@ -33,7 +34,18 @@ $on-laptop:        800px !default;
     background-color: ghostwhite;
     border-radius: 10px;
 }
-#pic {width: 300px; float: right;}
+
+#pic {
+    width: 300px;
+    float: right;
+    border-radius: 100px;
+}
+
+#boxcomment {
+  background-color: rgba(26, 25, 25, 0.692);
+  color: lightblue;
+  border-radius: 3px;
+}
 
 
 // Use media queries like this:

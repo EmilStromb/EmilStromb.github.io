@@ -5,7 +5,7 @@ date:   2019-11-16 06:12:03 -0600
 categories: jekyll 
 ---
 <h3>What do you think of pre-compiling your CSS?</h3>
-This function is basically takes the code that you have done in scss (that im using) and converts it to CSS. The preprocessed CSS gives you features like nestings, @import, mixins, and varible, it's also less css to maintain. What i think is most is usefull is varibles, you can make varible in css files with $ to reuse it, it gives you less code to maintain and better structure. 
+This function is basically takes the code that you have done in scss (that im using) and converts it to CSS. The preprocessed CSS gives you features like <a>nestings</a>, <a>@import</a>, <a>mixins</a>, and <a>varible</a>, it's also less css to maintain. What i think is most is usefull is varibles, you can make varible in css files with $ to reuse it, it gives you less code to maintain and better structure. 
 <h4>Compare to regular CSS</h4> 
 I think css preprocessing is better so far, it compiles all sass files together to a singel file for the site, and as mentioned above its less code to maintain, using varible so it makes DRY better. 
 <h4>Which techniques did you use?</h4>
@@ -17,9 +17,18 @@ I like static site generators, when it comes to private person or small company 
 <h4>What type of projects are they suitable for?</h4>
 I think they are suitable for every one that doesnt have a small server they can put their website on, and even if they do it still more work for you because then you have to think about updates, security etc. That static site generators does for you. If there is a larger company i think they probably got better equipment and people to handle the load of the site then. 
 <h3>What is robots.txt and how have you configure it for your site?</h3>
-it's a text based file for robots, it's for robots that wants to enter your site, so if they do first thing they do is check http://example.com/robots.txt and i have set my rules to user-agent: * (meaning this is set for all robots) and disallow: / (meaning all files under / they not go to)
+it's a text based file for robots, it's for robots that wants to enter your site, so if they do first thing they do is check http://example.com/robots.txt and i have set my rules to <a id="boxcomment">user-agent: *</a> (meaning this is set for all robots) and <a id="boxcomment">disallow: /</a> (meaning all files under / they not go to)
 <h3>What is humans.txt and how have you configure it for your site?</h3>
 It's the team of workers who created the site, first you start with /*TEAM*/ and add person for person with contact info like, your title, in my case BOSS, Email adress, twitter if you have it, location witch is kalmar, Sweden in my case. Then you move over to /*THANKS*/ if you got anyone els who has help you or given you information to create the site, i dont have anyone because this is an examination. Last you write /*SITE*/ witch is the information about creating the site like, when it was last updated, what standards you used to create it, language you used and last your sofware you used.
 <h3>How did you implements comments to blog posts</h3>
-I used Disqus for my comment section, it was very easy to use and configure on their site to enable for example emoji's. All you needed is an universial code tho add and add font matter comments: true for the sites you want it on.
+I used <a href="https://disqus.com/">Disqus</a> for my comment section, it was very easy to use and configure on their site to enable for example emoji's. All you needed is an universial code tho add and add font matter <a id="boxcomment">comments: true</a> for the sites you want it on.
 <h3>What is Open Graph and how do you make use of it?</h3>
+Open Graph is used for how you want to present your website when shared in social media. In my work here i needed to use <a>title</a>, <a>url</a>, <a>type</a> and <a>image<a> and those are explained well on <a href="https://ogp.me/">Open Graph Protocol site</a>. All you need to to is to put them in <a>meta</a> tags in your <a>head</a> tag. 
+
+* og:title - The title of your object as it should appear within the graph
+
+* og:type - The type of your object.
+
+* og:image - An image URL which should represent your object within the graph.
+
+* og:url - The canonical URL of your object that will be used as its permanent ID.
