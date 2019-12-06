@@ -1,5 +1,5 @@
 ---
-layout: defualt
+layout: post
 title:  "Questions"
 date:   2019-11-16 06:12:03 -0600
 categories: jekyll 
