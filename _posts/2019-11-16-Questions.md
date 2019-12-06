@@ -1,4 +1,5 @@
 ---
+include: head
 layout: post
 title:  "Questions"
 date:   2019-11-16 06:12:03 -0600

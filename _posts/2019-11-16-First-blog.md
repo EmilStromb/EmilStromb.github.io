@@ -1,4 +1,5 @@
 ---
+include: head
 layout: post
 title:  "Crete"
 date:   2019-11-18 02:12:03 -0200
